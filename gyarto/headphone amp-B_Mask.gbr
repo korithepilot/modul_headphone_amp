@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
-%TF.CreationDate,2022-10-30T23:19:10+01:00*%
+%TF.CreationDate,2022-11-01T15:51:30+01:00*%
 %TF.ProjectId,headphone amp,68656164-7068-46f6-9e65-20616d702e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-10-30 23:19:10*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-11-01 15:51:30*
 %MOMM*%
 %LPD*%
 G01*
@@ -37,7 +37,7 @@ X131324000Y-109858000D03*
 %TD*%
 D12*
 %TO.C,H4*%
-X103683000Y-53734000D03*
+X103556000Y-53607000D03*
 %TD*%
 D13*
 %TO.C,U2*%
@@ -56,7 +56,7 @@ D12*
 X196393000Y-53607000D03*
 %TD*%
 %TO.C,H2*%
-X196393000Y-146317000D03*
+X196393000Y-146444000D03*
 %TD*%
 D13*
 %TO.C,U1*%
@@ -237,7 +237,7 @@ X144116000Y-140750000D03*
 %TD*%
 D12*
 %TO.C,H1*%
-X103810000Y-146317000D03*
+X103556000Y-146444000D03*
 %TD*%
 D10*
 %TO.C,C7*%
